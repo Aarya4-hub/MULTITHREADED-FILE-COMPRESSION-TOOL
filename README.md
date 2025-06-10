@@ -138,3 +138,9 @@ Handle failures like unreadable files or failed decompression gracefully.
 
 Learn how to use return codes from external libraries (like Zlib) for debugging and control flow.
 
+
+
+Output 
+
+![Image](https://github.com/user-attachments/assets/78ec6768-b748-41ac-aef4-fbe587b1a20b)
+
