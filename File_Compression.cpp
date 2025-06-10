@@ -7,7 +7,7 @@
 #include <mutex>
 #include <condition_variable>
 #include <zlib.h>
-
+using namespace std;
 struct Chunk {
     std::vector<unsigned char> data;
     size_t index;
